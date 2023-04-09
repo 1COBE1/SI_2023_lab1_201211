@@ -1,0 +1,72 @@
+commit 4d492819ffb99c3ac678ec3587373243fbfafa5d (HEAD -> master, origin/master)
+Author: unknown <nicov539@gmail.com>
+Date:   Sun Apr 9 21:00:43 2023 +0200
+
+    commit2
+
+commit 1050ee9a410cb929317f5b4d6470093647845d08
+Author: unknown <nicov539@gmail.com>
+Date:   Sun Apr 9 20:02:00 2023 +0200
+
+    Fix method sumEvenNumbers.
+
+commit 955c60da5ea380606a60eb23af96a017e04dfea0
+Merge: 5218d73 a7b4867
+Author: unknown <nicov539@gmail.com>
+Date:   Sun Apr 9 20:51:47 2023 +0200
+
+    commit1
+
+commit 5218d731d9496d94f82ea410249d4a2af25c2435
+Author: unknown <nicov539@gmail.com>
+Date:   Sun Apr 9 20:40:51 2023 +0200
+
+:...skipping...
+commit 4d492819ffb99c3ac678ec3587373243fbfafa5d (HEAD -> master, origin/master)
+Author: unknown <nicov539@gmail.com>
+Date:   Sun Apr 9 21:00:43 2023 +0200
+
+    commit2
+
+commit 1050ee9a410cb929317f5b4d6470093647845d08
+Author: unknown <nicov539@gmail.com>
+Date:   Sun Apr 9 20:02:00 2023 +0200
+
+    Fix method sumEvenNumbers.
+
+commit 955c60da5ea380606a60eb23af96a017e04dfea0
+Merge: 5218d73 a7b4867
+Author: unknown <nicov539@gmail.com>
+Date:   Sun Apr 9 20:51:47 2023 +0200
+
+    commit1
+
+commit 5218d731d9496d94f82ea410249d4a2af25c2435
+Author: unknown <nicov539@gmail.com>
+Date:   Sun Apr 9 20:40:51 2023 +0200
+
+    commit b4 bug2
+
+commit a7b4867f4b6af7245d7f361137be8c7b54cff6fe (origin/bug2, bug2)
+Author: unknown <nicov539@gmail.com>
+Date:   Sun Apr 9 20:00:40 2023 +0200
+
+    Fix wrong condition in filterOddNumbers.
+
+commit 086fb89581a19fa7f2b73f30abd98ccbe0091da9 (origin/bug1, bug1)
+Author: unknown <nicov539@gmail.com>
+Date:   Sun Apr 9 19:57:47 2023 +0200
+
+    Fix wrong loop for reading.
+
+commit d5467c5b72ee20ad46e4ca7424fb558b574fc35e
+Author: unknown <nicov539@gmail.com>
+Date:   Sun Apr 9 19:08:33 2023 +0200
+
+    ADD java class
+
+commit a1d57a74233891d5e0e69e65c54b9f6cf68ea29b
+Author: unknown <nicov539@gmail.com>
+Date:   Sun Apr 9 18:31:10 2023 +0200
+
+    initial commit
